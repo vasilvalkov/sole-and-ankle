@@ -29,7 +29,7 @@ const Wrapper = styled.div`
   color: ${COLORS.gray[300]};
   background-color: ${COLORS.gray[900]};
   padding: 0 32px;
-  height: 48px;
+  height: 40px;
   gap: 24px;
 `;
 
